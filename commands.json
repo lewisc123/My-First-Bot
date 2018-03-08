@@ -1,0 +1,30 @@
+{
+  "Help":{
+    "name":"help" ,
+    "type":"user" ,
+    "desc":"Displays All The Commands For The Bot." ,
+    "usage":"help [group or command]"
+
+  },
+  "fortnite":{
+    "name":"fornite" ,
+    "type":"User" ,
+    "desc":"Displays Fornite stats for the username provided" ,
+    "usage":"fornite [pc | xbl | psn] [username]"
+
+  },
+  "info":{
+    "name":"info" ,
+    "type":"User" ,
+    "desc":"Displays The Bots Info" ,
+    "usage":"info"
+
+  },
+  "serverinfo":{
+    "name":"serverinfo" ,
+    "type":"User" ,
+    "desc":"Displays The Server Info" ,
+    "usage":"serverinfo"
+
+  }
+}
